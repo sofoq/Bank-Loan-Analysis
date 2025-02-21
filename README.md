@@ -56,7 +56,7 @@ A detailed table containing granular information about each loan, allowing for d
 2. Switch between different measures in the **Overview Sheet** using the slicer to analyze specific financial trends.  
 3. Explore the **Details Sheet** for breakdown of loan data.  
 
-## 👩‍💻 Author  
+
 **Sofo Qaadze**  
 📧 sqaadze2000@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)  
