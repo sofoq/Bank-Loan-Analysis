@@ -42,12 +42,13 @@ A detailed table containing granular information about each loan, allowing for d
 
 ## 📸 Screenshots  
 
-### Overview Dashboard  
+###  Summary Dashboard  
 ![Summery](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/SUMMARY.png)  
 
-### Details Dashboard  
+### Overview Dashboard  
 ![Overview](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/OVERVIEW.png)  
 
+### Details Dashboard 
 ![Details](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/DETAILS.png)  
 
 
