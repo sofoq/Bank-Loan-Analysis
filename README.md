@@ -24,15 +24,15 @@ Additionally, this sheet includes:
 - **Matrix for Loan Status**: Displays detailed KPIs for each loan status.  
 
 ### **2️⃣ Overview Sheet**  
-This sheet allows users to select a measure (**Total Loan Applications, Total Funded Amount, or Total Received Amount**) using a slicer. All visualizations update dynamically based on the selected measure:  
-- 📈 **Area Chart** – Monthly trend of the selected measure.  
+This sheet allows users to select parameters (**Total Loan Applications, Total Funded Amount, or Total Received Amount**) using a slicer. All visualizations update dynamically based on the selected parameter:  
+- 📈 **Area Chart** – Monthly trend of the selected parameter.  
 - 🗺️ **Map by State** – Displays regional distribution of loans.  
 - 🍩 **Donut Chart by Term** – Breakdown of loan terms.  
 - 📊 **Clustered Bar Chart by Employee Length** – Shows loan applications by employment duration.  
 - 📊 **Clustered Bar Chart by Purpose** – Displays loan distribution by purpose.  
 - 🔥 **Heatmap by Home Ownership** – Analyzes homeownership trends in relation to loans.  
 
-When a measure is selected, every chart updates to reflect data specifically for that measure.  
+When a parameter is selected, every chart updates to reflect data specifically for that parameter.  
 
 ### **3️⃣ Details Sheet**  
 A detailed table containing granular information about each loan, allowing for deeper exploration of individual records.  
@@ -54,7 +54,7 @@ A detailed table containing granular information about each loan, allowing for d
 
 ## 🚀 How to Use  
 1. Use the **Summary Sheet** for high-level insights into loan performance and key KPIs.  
-2. Switch between different measures in the **Overview Sheet** using the slicer to analyze specific financial trends.  
+2. Switch between different parameters in the **Overview Sheet** using the slicer to analyze specific financial trends.  
 3. Explore the **Details Sheet** for breakdown of loan data.  
 
 
