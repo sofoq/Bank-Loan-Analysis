@@ -19,18 +19,18 @@ This sheet presents an overview of key performance indicators (**KPIs**) with **
 
 Additionally, this sheet includes:  
 - **Donut Charts**:  
-  - 📊 **Good Loans**: Total applications, funded amount, and received amount.  
-  - 📊 **Bad Loans**: Total applications, funded amount, and received amount.  
+  - **Good Loans**: Total applications, funded amount, and received amount.  
+  - **Bad Loans**: Total applications, funded amount, and received amount.  
 - **Matrix for Loan Status**: Displays detailed KPIs for each loan status.  
 
 ### **2️⃣ Overview Sheet**  
 This sheet allows users to select parameters (**Total Loan Applications, Total Funded Amount, or Total Received Amount**) using a slicer. All visualizations update dynamically based on the selected parameter:  
-- 📈 **Area Chart** – Monthly trend of the selected parameter.  
-- 🗺️ **Map by State** – Displays regional distribution of loans.  
-- 🍩 **Donut Chart by Term** – Breakdown of loan terms.  
-- 📊 **Clustered Bar Chart by Employee Length** – Shows loan applications by employment duration.  
-- 📊 **Clustered Bar Chart by Purpose** – Displays loan distribution by purpose.  
-- 🔥 **Heatmap by Home Ownership** – Analyzes homeownership trends in relation to loans.  
+- **Area Chart** – Monthly trend of the selected parameter.  
+- **Map by State** – Displays regional distribution of loans.  
+- **Donut Chart by Term** – Breakdown of loan terms.  
+- **Clustered Bar Chart by Employee Length** – Shows loan applications by employment duration.  
+- **Clustered Bar Chart by Purpose** – Displays loan distribution by purpose.  
+- **Heatmap by Home Ownership** – Analyzes homeownership trends in relation to loans.  
 
 When a parameter is selected, every chart updates to reflect data specifically for that parameter.  
 
